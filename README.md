@@ -1,1 +1,2 @@
-# What-with-my-leg-s-WWML-
+# What-with-my-legs
+Only release project
